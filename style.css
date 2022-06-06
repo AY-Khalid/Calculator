@@ -114,3 +114,16 @@ p {
 .action-button{
     color: rgb(143, 49, 49);
 }
+
+@media (max-width: 670px) {
+    .container{
+        width: 80%;
+        height: 90%;
+        background-color: rgba(0, 0, 0, 0.824);
+        margin: 0 auto;
+        margin-top: 20px;
+        border-radius: 30px;
+        padding: 10px;
+        border: 4px solid rgb(19, 19, 19);
+    } 
+}
